@@ -33,5 +33,5 @@ build/
 .vscode/
 *.log
 *.iml
-*.jar
+# *.jar
 docker-data/
